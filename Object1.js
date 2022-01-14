@@ -36,7 +36,7 @@ const personobj1 = new Person2("megha ", "30") ;
 console.log(personobj1);
 
 
-////////another method with empty function //////
+////////another method  function //////
 function Person3(){
 
 }
